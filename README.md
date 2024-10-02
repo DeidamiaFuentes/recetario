@@ -34,3 +34,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+---
+Aplicación de Recetas
+
+    Descripción: Una app donde los usuarios puedan buscar, agregar, y compartir recetas de cocina.
+    Características:
+        Formulario para agregar recetas (nombre, ingredientes, pasos, etc.).
+        Filtro y búsqueda por ingredientes o nombre de receta.
+        Sistema de puntuación o favoritos para destacar las recetas preferidas.
+        Uso de una API pública de recetas (como TheMealDB) para aprender a integrar APIs.
